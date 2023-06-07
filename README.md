@@ -47,7 +47,7 @@
 
 ## 🚀 Link to Front-end <a name="front-end"></a>
 
-- [Link to Front-end](https://github.com/mrprotocoll/hello-react-front-end.git)
+- [Link to Front-end](https://github.com/microverse-journey/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
